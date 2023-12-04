@@ -1,0 +1,4 @@
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\exerciseString\bin\Debug\exerciseString.exe.config
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\exerciseString\obj\Debug\exerciseString.exe
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\exerciseString\obj\Debug\exerciseString.xml
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\exerciseString\obj\Debug\exerciseString.pdb

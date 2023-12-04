@@ -1,0 +1,13 @@
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask5\LabTask5\bin\Debug\LabTask5.exe.config
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\bin\Debug\LabTask5.exe
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\bin\Debug\LabTask5.pdb
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\bin\Debug\LabTask5.xml
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\obj\Debug\LabTask5.vbprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\obj\Debug\LabTask5.Home.resources
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\obj\Debug\LabTask5.Login.resources
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\obj\Debug\LabTask5.Resources.resources
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\obj\Debug\LabTask5.vbproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\obj\Debug\LabTask5.exe
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\obj\Debug\LabTask5.xml
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\obj\Debug\LabTask5.pdb
+C:\Users\User\OneDrive\Documents\Visual Studio 2015\Projects\LabTask5\LabTask5\obj\Debug\LabTask5.Category.resources

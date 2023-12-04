@@ -1,0 +1,12 @@
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\bin\Debug\exerciseString.exe.config
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\bin\Debug\exerciseString.exe
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\bin\Debug\exerciseString.pdb
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\bin\Debug\exerciseString.xml
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\obj\Debug\exerciseString.vbprojResolveAssemblyReference.cache
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\obj\Debug\exerciseString.Form1.resources
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\obj\Debug\exerciseString.Resources.resources
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\obj\Debug\exerciseString.vbproj.GenerateResource.Cache
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\obj\Debug\exerciseString.exe
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\obj\Debug\exerciseString.xml
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\obj\Debug\exerciseString.pdb
+c:\users\user\onedrive\documents\visual studio 2015\Projects\exerciseString\exerciseString\obj\Debug\exerciseString.Form2.resources
